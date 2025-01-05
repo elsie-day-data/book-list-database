@@ -18,6 +18,9 @@
 
 This data analysis project aims to provivde a list of my favorite books with associated ratings. By analyzing this information, I can keep track of 1) books I've read, and 2) ratings for further analytics exploration into things like themes and recommends.
 
+<img width="1201" alt="Screenshot 2025-01-05 at 3 17 12 PM" src="https://github.com/user-attachments/assets/0a6c02d7-4523-4cab-9864-e1fc7889c5ad" />
+
+
 ### Data Sources
 
 Book Data: The primary dataset used for this was Perplexity as I asked for a list of trending non-fictional books in the US today.
