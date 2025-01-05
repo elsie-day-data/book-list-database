@@ -29,7 +29,7 @@ Book Data: The primary dataset used for this was Perplexity as I asked for a lis
 
 - SQL Lite
 
-### Data Preparation
+### Data Preparation 
 
 In the initial data preparation phase, I performed the following tasks:
 1. Data loading and inspection.
