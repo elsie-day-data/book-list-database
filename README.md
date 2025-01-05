@@ -72,6 +72,7 @@ It was interesting that building this data set required three phases of
 There were no limitations in this database. In the future I will use this section to detail any outliers or adjustments I had to make to the data to protect the accuracy of analysis I'm working to achieve.
 
 ### References or Resources
+---
 
 1. [How to Document Data Analysis Projects on GitHub the Right Way](https://www.youtube.com/watch?v=0N9xekdKCwk)
 2. [Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/pc/challenge-book-list-database)
